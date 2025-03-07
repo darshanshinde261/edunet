@@ -1,3 +1,13 @@
+### CHANGES IN FRONTEND
+- changes in navbar the user icon is added from react icons.
+- set new background color for all the app.
+- added the validation for login and register for empty fields.
+- the validation for password as the password much more than 4 character is added.
+- new toasts are added for betterment of user interaction.
+- form validation is done for adding a new transaction.
+- hover effects and color combination updated.
+- mew styles are added
+
 ## discalaimer
 - As now till date the project is only half complete only the frontend part is working as of the backend is still remains to integrate.
 
